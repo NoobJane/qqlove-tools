@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "happy",
+    "cn": "快乐"
+  },
+  {
+    "id": 2,
+    "key": "trust",
+    "cn": "信任"
+  },
+  {
+    "id": 3,
+    "key": "sincere",
+    "cn": "真挚"
+  },
+  {
+    "id": 4,
+    "key": "focus",
+    "cn": "专注"
+  },
+  {
+    "id": 5,
+    "key": "resolute",
+    "cn": "果决"
+  },
+  {
+    "id": 6,
+    "key": "fearless",
+    "cn": "无畏"
+  }
+]

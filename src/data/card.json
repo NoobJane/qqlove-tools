@@ -1,0 +1,1757 @@
+{
+  "11001": {
+    "cname": "靛蓝律动",
+    "star": 1,
+    "main": "trust",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "trust": 228,
+      "happy": 171,
+      "sincere": 176,
+      "focus": 183,
+      "fearless": 0,
+      "resolute": 0
+    }
+  },
+  "12001": {
+    "cname": "鸢尾之梦",
+    "star": 2,
+    "main": "fearless",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "focus": 184,
+      "sincere": 173,
+      "resolute": 176,
+      "fearless": 233,
+      "happy": 0,
+      "trust": 0
+    }
+  },
+  "13001": {
+    "cname": "火之洗礼",
+    "star": 3,
+    "main": "resolute",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 193,
+      "sincere": 0,
+      "resolute": 237,
+      "fearless": 175,
+      "trust": 184,
+      "focus": 0
+    }
+  },
+  "13002": {
+    "cname": "专属方向",
+    "star": 3,
+    "main": "resolute",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 106,
+      "sincere": 221,
+      "resolute": 0,
+      "fearless": 237,
+      "trust": 224,
+      "focus": 0
+    }
+  },
+  "13003": {
+    "cname": "奇妙伙伴",
+    "star": 3,
+    "main": "happy",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 240,
+      "sincere": 139,
+      "resolute": 0,
+      "fearless": 196,
+      "trust": 0,
+      "focus": 213
+    }
+  },
+  "13004": {
+    "cname": "即刻启程",
+    "star": 3,
+    "main": "trust",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 202,
+      "resolute": 147,
+      "fearless": 0,
+      "trust": 237,
+      "focus": 202
+    }
+  },
+  "13005": {
+    "cname": "急流",
+    "star": 3,
+    "main": "focus",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 168,
+      "sincere": 194,
+      "resolute": 187,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 240
+    }
+  },
+  "13006": {
+    "cname": "暗巷沉沉",
+    "star": 3,
+    "main": "resolute",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 182,
+      "sincere": 0,
+      "resolute": 240,
+      "fearless": 0,
+      "trust": 185,
+      "focus": 183
+    }
+  },
+  "14001": {
+    "cname": "迷迭暗巷",
+    "star": 4,
+    "main": "resolute",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 194,
+      "resolute": 245,
+      "fearless": 199,
+      "trust": 0,
+      "focus": 189
+    }
+  },
+  "14002": {
+    "cname": "与你同坠",
+    "star": 4,
+    "main": "trust",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 232,
+      "fearless": 232,
+      "trust": 252,
+      "focus": 110
+    }
+  },
+  "14003": {
+    "cname": "尘埃银河",
+    "star": 4,
+    "main": "fearless",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 206,
+      "resolute": 226,
+      "fearless": 224,
+      "trust": 151,
+      "focus": 0
+    }
+  },
+  "14004": {
+    "cname": "灰色频率",
+    "star": 4,
+    "main": "sincere",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 215,
+      "sincere": 246,
+      "resolute": 208,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 157
+    }
+  },
+  "14005": {
+    "cname": "缭乱斜阳",
+    "star": 4,
+    "main": "happy",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 249,
+      "sincere": 197,
+      "resolute": 0,
+      "focus": 175,
+      "fearless": 0,
+      "trust": 206
+    }
+  },
+  "14006": {
+    "cname": "狂飙",
+    "star": 4,
+    "main": "focus",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 190,
+      "sincere": 199,
+      "resolute": 0,
+      "focus": 249,
+      "fearless": 0,
+      "trust": 189
+    }
+  },
+  "14007": {
+    "cname": "未燃之烬",
+    "star": 4,
+    "main": "fearless",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 228,
+      "focus": 115,
+      "fearless": 251,
+      "trust": 232
+    }
+  },
+  "14008": {
+    "cname": "深潭",
+    "star": 4,
+    "main": "resolute",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 151,
+      "sincere": 0,
+      "resolute": 247,
+      "focus": 206,
+      "fearless": 222,
+      "trust": 0
+    }
+  },
+  "14009": {
+    "cname": "头号玩家",
+    "star": 4,
+    "main": "focus",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 203,
+      "sincere": 0,
+      "resolute": 216,
+      "focus": 246,
+      "fearless": 0,
+      "trust": 160
+    }
+  },
+  "14010": {
+    "cname": "不驯",
+    "star": 4,
+    "main": "fearless",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 170,
+      "focus": 208,
+      "fearless": 249,
+      "trust": 200
+    }
+  },
+  "14011": {
+    "cname": "黑色沉沦",
+    "star": 4,
+    "main": "focus",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 188,
+      "resolute": 191,
+      "focus": 249,
+      "fearless": 199,
+      "trust": 0
+    }
+  },
+  "14012": {
+    "cname": "夜雾沼泽",
+    "star": 4,
+    "main": "trust",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 116,
+      "focus": 232,
+      "fearless": 232,
+      "trust": 246
+    }
+  },
+  "15001": {
+    "cname": "指尖心音",
+    "star": 5,
+    "main": "focus",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 198,
+      "resolute": 369,
+      "focus": 391,
+      "fearless": 0,
+      "trust": 21
+    }
+  },
+  "15002": {
+    "cname": "碧珀凝光",
+    "star": 5,
+    "main": "happy",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 395,
+      "sincere": 197,
+      "resolute": 0,
+      "focus": 370,
+      "fearless": 0,
+      "trust": 16
+    }
+  },
+  "15003": {
+    "cname": "黑色对峙",
+    "star": 5,
+    "main": "fearless",
+    "character": "xiaoyi",
+    "messenger": true,
+    "min": {
+      "happy": 212,
+      "sincere": 0,
+      "resolute": 0,
+      "focus": 340,
+      "fearless": 393,
+      "trust": 32
+    }
+  },
+  "15004": {
+    "cname": "专属造型",
+    "star": 5,
+    "main": "happy",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 394,
+      "sincere": 293,
+      "resolute": 0,
+      "focus": 56,
+      "fearless": 0,
+      "trust": 235
+    }
+  },
+  "15005": {
+    "cname": "反转霓虹",
+    "star": 5,
+    "main": "trust",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 243,
+      "resolute": 0,
+      "focus": 98,
+      "fearless": 243,
+      "trust": 393
+    }
+  },
+  "15007": {
+    "cname": "无可遁逃",
+    "star": 5,
+    "main": "trust",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 195,
+      "sincere": 194,
+      "resolute": 0,
+      "focus": 201,
+      "fearless": 0,
+      "trust": 387
+    }
+  },
+  "16001": {
+    "cname": "纷乱虹光",
+    "star": 6,
+    "main": "fearless",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 50,
+      "resolute": 362,
+      "focus": 71,
+      "fearless": 723,
+      "trust": 0
+    }
+  },
+  "16002": {
+    "cname": "无可遁逃",
+    "star": 6,
+    "main": "happy",
+    "character": "xiaoyi",
+    "messenger": false,
+    "min": {
+      "happy": 730,
+      "sincere": 0,
+      "resolute": 102,
+      "focus": 0,
+      "fearless": 72,
+      "trust": 301
+    }
+  },
+  "61001": {
+    "cname": "深红幽香",
+    "star": 1,
+    "main": "happy",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 227,
+      "sincere": 189,
+      "resolute": 182,
+      "fearless": 160,
+      "trust": 0,
+      "focus": 0
+    }
+  },
+  "62001": {
+    "cname": "曼陀独白",
+    "star": 2,
+    "main": "happy",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 232,
+      "sincere": 190,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 184,
+      "focus": 161
+    }
+  },
+  "63001": {
+    "cname": "诗意人生",
+    "star": 3,
+    "main": "sincere",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 188,
+      "sincere": 240,
+      "resolute": 0,
+      "fearless": 200,
+      "trust": 0,
+      "focus": 161
+    }
+  },
+  "63002": {
+    "cname": "孤岛",
+    "star": 3,
+    "main": "fearless",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 196,
+      "sincere": 150,
+      "resolute": 202,
+      "fearless": 241,
+      "trust": 0,
+      "focus": 0
+    }
+  },
+  "63003": {
+    "cname": "私人时间",
+    "star": 3,
+    "main": "focus",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 213,
+      "sincere": 0,
+      "resolute": 138,
+      "fearless": 0,
+      "trust": 200,
+      "focus": 237
+    }
+  },
+  "63004": {
+    "cname": "暖黄思绪",
+    "star": 3,
+    "main": "resolute",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 237,
+      "fearless": 221,
+      "trust": 221,
+      "focus": 109
+    }
+  },
+  "63005": {
+    "cname": "慢时光",
+    "star": 3,
+    "main": "trust",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 180,
+      "sincere": 188,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 237,
+      "focus": 183
+    }
+  },
+  "63006": {
+    "cname": "月伴之夜",
+    "star": 3,
+    "main": "sincere",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 238,
+      "resolute": 188,
+      "fearless": 163,
+      "trust": 0,
+      "focus": 199
+    }
+  },
+  "64001": {
+    "cname": "醇香私语",
+    "star": 4,
+    "main": "resolute",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 158,
+      "sincere": 209,
+      "resolute": 246,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 213
+    }
+  },
+  "64002": {
+    "cname": "交错光影",
+    "star": 4,
+    "main": "sincere",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 249,
+      "resolute": 208,
+      "fearless": 0,
+      "trust": 227,
+      "focus": 143
+    }
+  },
+  "64003": {
+    "cname": "迷失幻境",
+    "star": 4,
+    "main": "fearless",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 114,
+      "sincere": 0,
+      "resolute": 228,
+      "fearless": 250,
+      "trust": 0,
+      "focus": 234
+    }
+  },
+  "64004": {
+    "cname": "此刻停泊",
+    "star": 4,
+    "main": "trust",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 189,
+      "resolute": 199,
+      "fearless": 0,
+      "trust": 249,
+      "focus": 190
+    }
+  },
+  "64005": {
+    "cname": "温柔以待",
+    "star": 4,
+    "main": "focus",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 203,
+      "sincere": 214,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 157,
+      "focus": 252
+    }
+  },
+  "64006": {
+    "cname": "和光熹微",
+    "star": 4,
+    "main": "resolute",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 145,
+      "resolute": 250,
+      "fearless": 0,
+      "trust": 209,
+      "focus": 222
+    }
+  },
+  "64007": {
+    "cname": "深红救赎",
+    "star": 4,
+    "main": "fearless",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 207,
+      "resolute": 174,
+      "fearless": 251,
+      "trust": 0,
+      "focus": 195
+    }
+  },
+  "64008": {
+    "cname": "暗夜邀约",
+    "star": 4,
+    "main": "resolute",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 119,
+      "sincere": 234,
+      "resolute": 249,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 225
+    }
+  },
+  "64009": {
+    "cname": "夜色难沉",
+    "star": 4,
+    "main": "focus",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 190,
+      "resolute": 190,
+      "fearless": 0,
+      "trust": 200,
+      "focus": 246
+    }
+  },
+  "64010": {
+    "cname": "羽后晨曦",
+    "star": 4,
+    "main": "happy",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 249,
+      "sincere": 174,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 199,
+      "focus": 206
+    }
+  },
+  "65001": {
+    "cname": "倾人夜色",
+    "star": 5,
+    "main": "trust",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 194,
+      "fearless": 194,
+      "trust": 395,
+      "focus": 194
+    }
+  },
+  "65002": {
+    "cname": "白马童话",
+    "star": 5,
+    "main": "resolute",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 245,
+      "resolute": 387,
+      "fearless": 0,
+      "trust": 95,
+      "focus": 250
+    }
+  },
+  "65003": {
+    "cname": "一动星光",
+    "star": 5,
+    "main": "sincere",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 293,
+      "sincere": 393,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 56,
+      "focus": 236
+    }
+  },
+  "65004": {
+    "cname": "弦音似你",
+    "star": 5,
+    "main": "sincere",
+    "character": "luchen",
+    "messenger": true,
+    "min": {
+      "happy": 212,
+      "sincere": 0,
+      "resolute": 391,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 345
+    }
+  },
+  "65005": {
+    "cname": "星河入梦",
+    "star": 5,
+    "main": "trust",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 191,
+      "resolute": 16,
+      "fearless": 0,
+      "trust": 394,
+      "focus": 377
+    }
+  },
+  "66001": {
+    "cname": "暮光之境",
+    "star": 6,
+    "main": "resolute",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 719,
+      "fearless": 58,
+      "trust": 390,
+      "focus": 38
+    }
+  },
+  "66002": {
+    "cname": "光暖秋林",
+    "star": 6,
+    "main": "sincere",
+    "character": "luchen",
+    "messenger": false,
+    "min": {
+      "happy": 36,
+      "sincere": 723,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 10,
+      "focus": 438
+    }
+  },
+  "71001": {
+    "cname": "浅绿疏影",
+    "star": 1,
+    "main": "sincere",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 146,
+      "sincere": 228,
+      "resolute": 0,
+      "fearless": 198,
+      "trust": 0,
+      "focus": 187
+    }
+  },
+  "72001": {
+    "cname": "一现昙华",
+    "star": 2,
+    "main": "trust",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 193,
+      "sincere": 197,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 233,
+      "focus": 143
+    }
+  },
+  "73001": {
+    "cname": "七月间事",
+    "star": 3,
+    "main": "resolute",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 194,
+      "sincere": 146,
+      "resolute": 237,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 211
+    }
+  },
+  "73002": {
+    "cname": "和风煦日",
+    "star": 3,
+    "main": "happy",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 236,
+      "sincere": 111,
+      "resolute": 0,
+      "fearless": 220,
+      "trust": 0,
+      "focus": 221
+    }
+  },
+  "73003": {
+    "cname": "夏日纪事",
+    "star": 3,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 220,
+      "sincere": 0,
+      "resolute": 109,
+      "fearless": 0,
+      "trust": 221,
+      "focus": 238
+    }
+  },
+  "73004": {
+    "cname": "凝视",
+    "star": 4,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 197,
+      "fearless": 210,
+      "trust": 142,
+      "focus": 240
+    }
+  },
+  "73005": {
+    "cname": "片刻舒心",
+    "star": 3,
+    "main": "trust",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 286,
+      "resolute": 280,
+      "fearless": 0,
+      "trust": 234,
+      "focus": 188
+    }
+  },
+  "73006": {
+    "cname": "未完回首",
+    "star": 3,
+    "main": "resolute",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 163,
+      "sincere": 0,
+      "resolute": 238,
+      "fearless": 192,
+      "trust": 195,
+      "focus": 0
+    }
+  },
+  "74001": {
+    "cname": "光之缚",
+    "star": 4,
+    "main": "trust",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 218,
+      "fearless": 157,
+      "trust": 246,
+      "focus": 206
+    }
+  },
+  "74002": {
+    "cname": "皎皎流光",
+    "star": 4,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 149,
+      "resolute": 203,
+      "fearless": 224,
+      "trust": 0,
+      "focus": 251
+    }
+  },
+  "74003": {
+    "cname": "触摸灵感",
+    "star": 4,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 232,
+      "sincere": 231,
+      "resolute": 115,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 249
+    }
+  },
+  "74004": {
+    "cname": "刹那心弦",
+    "star": 4,
+    "main": "sincere",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 249,
+      "resolute": 0,
+      "fearless": 190,
+      "trust": 195,
+      "focus": 193
+    }
+  },
+  "74005": {
+    "cname": "掌上流光",
+    "star": 4,
+    "main": "resolute",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 208,
+      "resolute": 249,
+      "fearless": 0,
+      "trust": 157,
+      "focus": 213
+    }
+  },
+  "74006": {
+    "cname": "量身定制",
+    "star": 4,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 205,
+      "sincere": 0,
+      "resolute": 146,
+      "fearless": 0,
+      "trust": 224,
+      "focus": 252
+    }
+  },
+  "74007": {
+    "cname": "溺惑",
+    "star": 4,
+    "main": "trust",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 211,
+      "sincere": 201,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 245,
+      "focus": 170
+    }
+  },
+  "74008": {
+    "cname": "共赴璀璨",
+    "star": 4,
+    "main": "fearless",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 115,
+      "resolute": 0,
+      "fearless": 250,
+      "trust": 234,
+      "focus": 227
+    }
+  },
+  "74009": {
+    "cname": "时之茧",
+    "star": 2,
+    "main": "resolute",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 190,
+      "resolute": 249,
+      "fearless": 190,
+      "trust": 0,
+      "focus": 197
+    }
+  },
+  "74010": {
+    "cname": "光与尘",
+    "star": 4,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 206,
+      "sincere": 171,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 196,
+      "focus": 253
+    }
+  },
+  "75001": {
+    "cname": "咫尺",
+    "star": 5,
+    "main": "trust",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 374,
+      "sincere": 387,
+      "resolute": 201,
+      "fearless": 0,
+      "trust": 16,
+      "focus": 0
+    }
+  },
+  "75002": {
+    "cname": "永恒花园",
+    "star": 5,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 200,
+      "sincere": 197,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 200,
+      "focus": 381
+    }
+  },
+  "75003": {
+    "cname": "瑰丽游戏",
+    "star": 5,
+    "main": "happy",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 391,
+      "sincere": 245,
+      "resolute": 95,
+      "fearless": 0,
+      "trust": 246,
+      "focus": 0
+    }
+  },
+  "75004": {
+    "cname": "草莓星球",
+    "star": 5,
+    "main": "resolute",
+    "character": "qisili",
+    "messenger": true,
+    "min": {
+      "happy": 232,
+      "sincere": 295,
+      "resolute": 388,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 61
+    }
+  },
+  "75005": {
+    "cname": "夕暮之风",
+    "star": 5,
+    "main": "happy",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 390,
+      "sincere": 0,
+      "resolute": 197,
+      "fearless": 0,
+      "trust": 22,
+      "focus": 370
+    }
+  },
+  "76001": {
+    "cname": "氤氲",
+    "star": 6,
+    "main": "fealess",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 102,
+      "resolute": 0,
+      "fearless": 724,
+      "trust": 299,
+      "focus": 79
+    }
+  },
+  "76002": {
+    "cname": "倒影",
+    "star": 6,
+    "main": "focus",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 362,
+      "resolute": 53,
+      "fearless": 0,
+      "trust": 74,
+      "focus": 716
+    }
+  },
+  "76003": {
+    "cname": "千载织心",
+    "star": 6,
+    "main": "sincere",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 65,
+      "sincere": 721,
+      "resolute": 0,
+      "fearless": 383,
+      "trust": 0,
+      "focus": 36
+    }
+  },
+  "76004": {
+    "cname": "夏日向晚",
+    "star": 6,
+    "main": "trust",
+    "character": "qisili",
+    "messenger": false,
+    "min": {
+      "happy": 6,
+      "sincere": 38,
+      "resolute": 0,
+      "fearless": 383,
+      "trust": 723,
+      "focus": 438
+    }
+  },
+  "51001": {
+    "cname": "淡紫治愈",
+    "star": 1,
+    "main": "trust",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 210,
+      "sincere": 0,
+      "resolute": 106,
+      "fearless": 0,
+      "trust": 226,
+      "focus": 217
+    }
+  },
+  "52001": {
+    "cname": "顾影幽莲",
+    "star": 2,
+    "main": "trust",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 215,
+      "sincere": 215,
+      "resolute": 0,
+      "fearless": 105,
+      "trust": 232,
+      "focus": 0
+    }
+  },
+  "53001": {
+    "cname": "失眠症",
+    "star": 3,
+    "main": "resolute",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 236,
+      "fearless": 217,
+      "trust": 194,
+      "focus": 142
+    }
+  },
+  "53002": {
+    "cname": "绅士运动",
+    "star": 3,
+    "main": "trust",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 197,
+      "resolute": 168,
+      "fearless": 190,
+      "trust": 234,
+      "focus": 0
+    }
+  },
+  "53003": {
+    "cname": "微醺时分",
+    "star": 3,
+    "main": "happy",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 235,
+      "sincere": 183,
+      "resolute": 0,
+      "fearless": 182,
+      "trust": 0,
+      "focus": 190
+    }
+  },
+  "53004": {
+    "cname": "懒风余晖",
+    "star": 3,
+    "main": "sincere",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 218,
+      "sincere": 234,
+      "resolute": 224,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 113
+    }
+  },
+  "53005": {
+    "cname": "专业气质",
+    "star": 3,
+    "main": "resolute",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 149,
+      "resolute": 205,
+      "fearless": 0,
+      "trust": 199,
+      "focus": 236
+    }
+  },
+  "53006": {
+    "cname": "完美假日",
+    "star": 3,
+    "main": "fearless",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 196,
+      "sincere": 216,
+      "resolute": 139,
+      "fearless": 237,
+      "trust": 0,
+      "focus": 0
+    }
+  },
+  "54001": {
+    "cname": "日暮大道",
+    "star": 4,
+    "main": "fearless",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 209,
+      "sincere": 171,
+      "resolute": 0,
+      "fearless": 249,
+      "trust": 0,
+      "focus": 197
+    }
+  },
+  "54002": {
+    "cname": "火焰宣言",
+    "star": 4,
+    "main": "resolute",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 214,
+      "sincere": 0,
+      "resolute": 251,
+      "fearless": 206,
+      "trust": 0,
+      "focus": 156
+    }
+  },
+  "54003": {
+    "cname": "纯白守则",
+    "star": 4,
+    "main": "sincere",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 247,
+      "resolute": 149,
+      "fearless": 0,
+      "trust": 224,
+      "focus": 207
+    }
+  },
+  "54004": {
+    "cname": "底色",
+    "star": 4,
+    "main": "focus",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 234,
+      "resolute": 236,
+      "fearless": 0,
+      "trust": 113,
+      "focus": 244
+    }
+  },
+  "54005": {
+    "cname": "晨间烟火",
+    "star": 4,
+    "main": "resolute",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 174,
+      "sincere": 0,
+      "resolute": 246,
+      "fearless": 203,
+      "trust": 0,
+      "focus": 205
+    }
+  },
+  "55001": {
+    "cname": "与你出逃",
+    "star": 5,
+    "main": "sincere",
+    "character": "zhalisu",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 388,
+      "resolute": 369,
+      "fearless": 26,
+      "trust": 195,
+      "focus": 0
+    }
+  },
+  "55002": {
+    "cname": "昼日疑魂",
+    "star": 5,
+    "main": "fearless",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 191,
+      "resolute": 376,
+      "fearless": 388,
+      "trust": 23,
+      "focus": 0
+    }
+  },
+  "55003": {
+    "cname": "重叠心律",
+    "star": 5,
+    "main": "happy",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 388,
+      "sincere": 374,
+      "resolute": 21,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 195
+    }
+  },
+  "56001": {
+    "cname": "生而有翼",
+    "star": 6,
+    "main": "fearless",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 53,
+      "sincere": 69,
+      "resolute": 0,
+      "fearless": 724,
+      "trust": 0,
+      "focus": 358
+    }
+  },
+  "56002": {
+    "cname": "缠绵游戏",
+    "star": 6,
+    "main": "happy",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 719,
+      "sincere": 0,
+      "resolute": 0,
+      "fearless": 62,
+      "trust": 384,
+      "focus": 39
+    }
+  },
+  "56003": {
+    "cname": "仲夏鎏金",
+    "star": 6,
+    "main": "sincere",
+    "character": "zhalisu",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 730,
+      "resolute": 10,
+      "fearless": 431,
+      "trust": 0,
+      "focus": 36
+    }
+  },
+  "01001": {
+    "cname": "甜橙魅语",
+    "star": 1,
+    "main": "resolute",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 0,
+      "resolute": 228,
+      "fearless": 202,
+      "trust": 192,
+      "focus": 136
+    }
+  },
+  "02001": {
+    "cname": "六出心音",
+    "star": 2,
+    "main": "fearless",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 189,
+      "resolute": 0,
+      "fearless": 233,
+      "trust": 207,
+      "focus": 138
+    }
+  },
+  "03001": {
+    "cname": "橘色星球",
+    "star": 3,
+    "main": "sincere",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 203,
+      "sincere": 234,
+      "resolute": 0,
+      "fearless": 150,
+      "trust": 0,
+      "focus": 202
+    }
+  },
+  "03002": {
+    "cname": "甜蜜滋味",
+    "star": 3,
+    "main": "happy",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 237,
+      "sincere": 185,
+      "resolute": 182,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 185
+    }
+  },
+  "03003": {
+    "cname": "晴歌",
+    "star": 3,
+    "main": "trust",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 225,
+      "resolute": 110,
+      "fearless": 216,
+      "trust": 238,
+      "focus": 0
+    }
+  },
+  "03004": {
+    "cname": "萌宠携趣",
+    "star": 3,
+    "main": "focus",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 201,
+      "sincere": 0,
+      "resolute": 213,
+      "fearless": 0,
+      "trust": 0,
+      "focus": 234
+    }
+  },
+  "03005": {
+    "cname": "小为难",
+    "star": 3,
+    "main": "trust",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 197,
+      "resolute": 0,
+      "fearless": 193,
+      "trust": 237,
+      "focus": 161
+    }
+  },
+  "03006": {
+    "cname": "明媚悠光",
+    "star": 3,
+    "main": "sincere",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 237,
+      "resolute": 0,
+      "fearless": 197,
+      "trust": 149,
+      "focus": 205
+    }
+  },
+  "04001": {
+    "cname": "晴空之下",
+    "star": 4,
+    "main": "trust",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 0,
+      "sincere": 208,
+      "resolute": 157,
+      "fearless": 0,
+      "trust": 247,
+      "focus": 214
+    }
+  },
+  "04002": {
+    "cname": "琥珀岁月",
+    "star": 4,
+    "main": "happy",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 249,
+      "sincere": 224,
+      "resolute": 149,
+      "fearless": 0,
+      "trust": 206,
+      "focus": 0
+    }
+  },
+  "04003": {
+    "cname": "同光",
+    "star": 4,
+    "main": "happy",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 247,
+      "sincere": 236,
+      "resolute": 110,
+      "fearless": 0,
+      "trust": 233,
+      "focus": 0
+    }
+  },
+  "04004": {
+    "cname": "昨日留痕",
+    "star": 4,
+    "main": "happy",
+    "character": "xiamingxing",
+    "messenger": false,
+    "min": {
+      "happy": 200,
+      "sincere": 0,
+      "resolute": 190,
+      "fearless": 0,
+      "trust": 187,
+      "focus": 250
+    }
+  },
+  "04005": {
+    "cname": "倦懒日光",
+    "star": 4,
+    "main": "sincere",
+    "character": "xiamingxing",
+    "messenger": false,
+    "min": {
+      "happy": 228,
+      "sincere": 250,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 114,
+      "focus": 234
+    }
+  },
+  "05001": {
+    "cname": "幕间诉愿",
+    "star": 5,
+    "main": "resolute",
+    "character": "xiamingxing",
+    "messenger": false,
+    "min": {
+      "happy": 21,
+      "sincere": 0,
+      "resolute": 395,
+      "fearless": 0,
+      "trust": 373,
+      "focus": 190
+    }
+  },
+  "05002": {
+    "cname": "旧忆绵长",
+    "star": 5,
+    "main": "sincere",
+    "character": "xiamingxing",
+    "messenger": true,
+    "min": {
+      "happy": 16,
+      "sincere": 387,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 195,
+      "focus": 380
+    }
+  },
+  "05003": {
+    "cname": "迷途誓约",
+    "star": 5,
+    "main": "focus",
+    "character": "xiamingxing",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 191,
+      "resolute": 0,
+      "fearless": 376,
+      "trust": 23,
+      "focus": 388
+    }
+  },
+  "06001": {
+    "cname": "绚丽极夜",
+    "star": 6,
+    "main": "trust",
+    "character": "xiamingxing",
+    "messenger": false,
+    "min": {
+      "happy": 430,
+      "sincere": 8,
+      "resolute": 0,
+      "fearless": 0,
+      "trust": 723,
+      "focus": 46
+    }
+  },
+  "06002": {
+    "cname": "缱绻心愿",
+    "star": 6,
+    "main": "resolute",
+    "character": "xiamingxing",
+    "messenger": false,
+    "min": {
+      "happy": 0,
+      "sincere": 299,
+      "resolute": 728,
+      "fearless": 0,
+      "trust": 93,
+      "focus": 84
+    }
+  }
+}

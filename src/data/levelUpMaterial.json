@@ -1,0 +1,629 @@
+{
+  "levelUp": [
+    {
+      "label": "1级",
+      "exp": 0,
+      "coins": 0
+    },
+    {
+      "label": "2级",
+      "exp": 100,
+      "coins": 40
+    },
+    {
+      "label": "3级",
+      "exp": 200,
+      "coins": 80
+    },
+    {
+      "label": "4级",
+      "exp": 200,
+      "coins": 80
+    },
+    {
+      "label": "5级",
+      "exp": 300,
+      "coins": 120
+    },
+    {
+      "label": "6级",
+      "exp": 400,
+      "coins": 160
+    },
+    {
+      "label": "7级",
+      "exp": 400,
+      "coins": 160
+    },
+    {
+      "label": "8级",
+      "exp": 500,
+      "coins": 200
+    },
+    {
+      "label": "9级",
+      "exp": 600,
+      "coins": 240
+    },
+    {
+      "label": "10级",
+      "exp": 600,
+      "coins": 240
+    },
+    {
+      "label": "11级",
+      "exp": 700,
+      "coins": 280
+    },
+    {
+      "label": "12级",
+      "exp": 600,
+      "coins": 240
+    },
+    {
+      "label": "13级",
+      "exp": 800,
+      "coins": 320
+    },
+    {
+      "label": "14级",
+      "exp": 800,
+      "coins": 320
+    },
+    {
+      "label": "15级",
+      "exp": 800,
+      "coins": 320
+    },
+    {
+      "label": "16级",
+      "exp": 1000,
+      "coins": 400
+    },
+    {
+      "label": "17级",
+      "exp": 1000,
+      "coins": 400
+    },
+    {
+      "label": "18级",
+      "exp": 1200,
+      "coins": 480
+    },
+    {
+      "label": "19级",
+      "exp": 1200,
+      "coins": 480
+    },
+    {
+      "label": "20级",
+      "exp": 1200,
+      "coins": 480
+    },
+    {
+      "label": "20级突破",
+      "exp": 0,
+      "coins": 3000
+    },
+    {
+      "label": "21级",
+      "exp": 1400,
+      "coins": 700
+    },
+    {
+      "label": "22级",
+      "exp": 2500,
+      "coins": 1250
+    },
+    {
+      "label": "23级",
+      "exp": 2800,
+      "coins": 1400
+    },
+    {
+      "label": "24级",
+      "exp": 3200,
+      "coins": 1600
+    },
+    {
+      "label": "25级",
+      "exp": 3600,
+      "coins": 1800
+    },
+    {
+      "label": "26级",
+      "exp": 3900,
+      "coins": 1950
+    },
+    {
+      "label": "27级",
+      "exp": 4300,
+      "coins": 2150
+    },
+    {
+      "label": "28级",
+      "exp": 4600,
+      "coins": 2300
+    },
+    {
+      "label": "29级",
+      "exp": 5000,
+      "coins": 2500
+    },
+    {
+      "label": "30级",
+      "exp": 5400,
+      "coins": 2700
+    },
+    {
+      "label": "31级",
+      "exp": 5700,
+      "coins": 2850
+    },
+    {
+      "label": "32级",
+      "exp": 6300,
+      "coins": 3150
+    },
+    {
+      "label": "33级",
+      "exp": 7100,
+      "coins": 2550
+    },
+    {
+      "label": "34级",
+      "exp": 7900,
+      "coins": 3950
+    },
+    {
+      "label": "35级",
+      "exp": 8700,
+      "coins": 4350
+    },
+    {
+      "label": "36级",
+      "exp": 9500,
+      "coins": 4750
+    },
+    {
+      "label": "37级",
+      "exp": 10300,
+      "coins": 5150
+    },
+    {
+      "label": "38级",
+      "exp": 11100,
+      "coins": 5550
+    },
+    {
+      "label": "39级",
+      "exp": 11900,
+      "coins": 5950
+    },
+    {
+      "label": "40级",
+      "exp": 12700,
+      "coins": 6350
+    },
+    {
+      "label": "40级突破",
+      "exp": 0,
+      "coins": 8000
+    },
+    {
+      "label": "41级",
+      "exp": 13500,
+      "coins": 8100
+    },
+    {
+      "label": "42级",
+      "exp": 15000,
+      "coins": 9000
+    },
+    {
+      "label": "43级",
+      "exp": 16300,
+      "coins": 9780
+    },
+    {
+      "label": "44级",
+      "exp": 17500,
+      "coins": 10500
+    },
+    {
+      "label": "45级",
+      "exp": 18700,
+      "coins": 11220
+    },
+    {
+      "label": "46级",
+      "exp": 20000,
+      "coins": 12000
+    },
+    {
+      "label": "47级",
+      "exp": 21200,
+      "coins": 12720
+    },
+    {
+      "label": "48级",
+      "exp": 22500,
+      "coins": 13500
+    },
+    {
+      "label": "49级",
+      "exp": 23700,
+      "coins": 14220
+    },
+    {
+      "label": "50级",
+      "exp": 24900,
+      "coins": 14940
+    },
+    {
+      "label": "51级",
+      "exp": 26200,
+      "coins": 15720
+    },
+    {
+      "label": "52级",
+      "exp": 25100,
+      "coins": 15060
+    },
+    {
+      "label": "53级",
+      "exp": 26600,
+      "coins": 15960
+    },
+    {
+      "label": "54级",
+      "exp": 28000,
+      "coins": 16800
+    },
+    {
+      "label": "55级",
+      "exp": 29400,
+      "coins": 17640
+    },
+    {
+      "label": "56级",
+      "exp": 30900,
+      "coins": 18540
+    },
+    {
+      "label": "57级",
+      "exp": 32300,
+      "coins": 19380
+    },
+    {
+      "label": "58级",
+      "exp": 33800,
+      "coins": 20280
+    },
+    {
+      "label": "59级",
+      "exp": 35200,
+      "coins": 21120
+    },
+    {
+      "label": "60级",
+      "exp": 36600,
+      "coins": 21960
+    },
+    {
+      "label": "60级突破",
+      "exp": 0,
+      "coins": 15000
+    },
+    {
+      "label": "61级",
+      "exp": 38100,
+      "coins": 26670
+    },
+    {
+      "label": "62级",
+      "exp": 39600,
+      "coins": 27720
+    },
+    {
+      "label": "63级",
+      "exp": 41400,
+      "coins": 28980
+    },
+    {
+      "label": "64级",
+      "exp": 43000,
+      "coins": 30100
+    },
+    {
+      "label": "65级",
+      "exp": 44600,
+      "coins": 31220
+    },
+    {
+      "label": "66级",
+      "exp": 46400,
+      "coins": 32480
+    },
+    {
+      "label": "67级",
+      "exp": 48000,
+      "coins": 33600
+    },
+    {
+      "label": "68级",
+      "exp": 49800,
+      "coins": 34860
+    },
+    {
+      "label": "69级",
+      "exp": 51400,
+      "coins": 35980
+    },
+    {
+      "label": "70级",
+      "exp": 53000,
+      "coins": 37100
+    },
+    {
+      "label": "71级",
+      "exp": 54800,
+      "coins": 38360
+    },
+    {
+      "label": "72级",
+      "exp": 56600,
+      "coins": 39620
+    },
+    {
+      "label": "73级",
+      "exp": 58400,
+      "coins": 40880
+    },
+    {
+      "label": "74级",
+      "exp": 60400,
+      "coins": 42280
+    },
+    {
+      "label": "75级",
+      "exp": 62400,
+      "coins": 43680
+    },
+    {
+      "label": "76级",
+      "exp": 64200,
+      "coins": 44940
+    },
+    {
+      "label": "77级",
+      "exp": 66200,
+      "coins": 46340
+    },
+    {
+      "label": "78级",
+      "exp": 68000,
+      "coins": 47600
+    },
+    {
+      "label": "79级",
+      "exp": 70000,
+      "coins": 49000
+    },
+    {
+      "label": "80级",
+      "exp": 72000,
+      "coins": 50400
+    }
+  ],
+  "mingjiUp": {
+    "starLevelOne": {
+      "active": {
+        "coins": 2000,
+        "sand": 0,
+        "treasure": 5,
+        "conch": 0
+      },
+      "levelArray": [
+        {
+          "startLevel": 2,
+          "endLevel": 6,
+          "sand": 2,
+          "coins": 120
+        },
+        {
+          "startLevel": 7,
+          "endLevel": 16,
+          "sand": 3,
+          "coins": 180
+        },
+        {
+          "startLevel": 17,
+          "endLevel": 26,
+          "sand": 4,
+          "coins": 240
+        },
+        {
+          "startLevel": 27,
+          "endLevel": 30,
+          "sand": 5,
+          "coins": 300
+        }
+      ]
+    },
+    "starLevelTwo": {
+      "active": {
+        "coins": 4000,
+        "sand": 20,
+        "treasure": 5,
+        "conch": 0
+      },
+      "levelArray": [
+        {
+          "startLevel": 2,
+          "endLevel": 6,
+          "sand": 4,
+          "coins": 280
+        },
+        {
+          "startLevel": 7,
+          "endLevel": 14,
+          "sand": 5,
+          "coins": 350
+        },
+        {
+          "startLevel": 15,
+          "endLevel": 22,
+          "sand": 6,
+          "coins": 420
+        },
+        {
+          "startLevel": 23,
+          "endLevel": 31,
+          "sand": 7,
+          "coins": 490
+        },
+        {
+          "startLevel": 32,
+          "endLevel": 39,
+          "sand": 8,
+          "coins": 560
+        },
+        {
+          "startLevel": 40,
+          "endLevel": 40,
+          "sand": 9,
+          "coins": 630
+        }
+      ]
+    },
+    "starLevelThree": {
+      "active": {
+        "coins": 8000,
+        "sand": 30,
+        "conch": 8,
+        "treasure": 0
+      },
+      "levelArray": [
+        {
+          "startLevel": 2,
+          "endLevel": 5,
+          "sand": 6,
+          "coins": 480
+        },
+        {
+          "startLevel": 6,
+          "endLevel": 12,
+          "sand": 7,
+          "coins": 560
+        },
+        {
+          "startLevel": 13,
+          "endLevel": 19,
+          "sand": 8,
+          "coins": 640
+        },
+        {
+          "startLevel": 20,
+          "endLevel": 26,
+          "sand": 9,
+          "coins": 720
+        },
+        {
+          "startLevel": 27,
+          "endLevel": 34,
+          "sand": 10,
+          "coins": 800
+        },
+        {
+          "startLevel": 35,
+          "endLevel": 41,
+          "sand": 11,
+          "coins": 880
+        },
+        {
+          "startLevel": 42,
+          "endLevel": 48,
+          "sand": 12,
+          "coins": 960
+        },
+        {
+          "startLevel": 49,
+          "endLevel": 50,
+          "sand": 13,
+          "coins": 1040
+        }
+      ]
+    },
+    "starLevelFour": {
+      "active": {
+        "coins": 10000,
+        "sand": 40,
+        "conch": 10,
+        "treasure": 0
+      },
+      "levelArray": [
+        {
+          "startLevel": 2,
+          "endLevel": 5,
+          "sand": 8,
+          "coins": 720
+        },
+        {
+          "startLevel": 6,
+          "endLevel": 11,
+          "sand": 9,
+          "coins": 810
+        },
+        {
+          "startLevel": 12,
+          "endLevel": 18,
+          "sand": 10,
+          "coins": 900
+        },
+        {
+          "startLevel": 19,
+          "endLevel": 25,
+          "sand": 11,
+          "coins": 990
+        },
+        {
+          "startLevel": 26,
+          "endLevel": 31,
+          "sand": 12,
+          "coins": 1080
+        },
+        {
+          "startLevel": 32,
+          "endLevel": 38,
+          "sand": 13,
+          "coins": 1170
+        },
+        {
+          "startLevel": 39,
+          "endLevel": 45,
+          "sand": 14,
+          "coins": 1260
+        },
+        {
+          "startLevel": 46,
+          "endLevel": 51,
+          "sand": 15,
+          "coins": 1350
+        },
+        {
+          "startLevel": 52,
+          "endLevel": 58,
+          "sand": 16,
+          "coins": 1440
+        },
+        {
+          "startLevel": 59,
+          "endLevel": 60,
+          "sand": 17,
+          "coins": 1530
+        }
+      ]
+    }
+  }
+}

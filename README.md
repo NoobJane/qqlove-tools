@@ -21,7 +21,7 @@
 
 ### 优化工具箱
 1. 优化前端打包。按需导入Element-Plus的模块，查看相关文档的“按需引入”的章节：[Element-Plus 快速上手](https://element-plus.gitee.io/#/zh-CN/component/quickstart)。
-
+2. el-select的 option 中出现"未匹配数据"。
 
 ## 程序说明
 拉取代码后，请先配置好相应的node环境，推荐node 10.0+的版本。本程序的框架用的是 Vue3，使用Vue-cli4.0+进行的脚手架搭建。关于Vue3的特性以及Vue4.0+脚手架的使用，请查看官方文档：[Vue.js Version 3.0+](https://v3.cn.vuejs.org/guide/installation.html)。
